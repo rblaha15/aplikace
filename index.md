@@ -4,10 +4,6 @@
 
 Přes odkaz níže se dostanete na stránku s nejnovější verzí dané aplikace. Zde popojeďte kouse dolů a pod sekcí `Assets` najdete soubor ve formátu `NÁZEV-VERZE.apk`. Po kliknutí se vám soubor začne stahovat a po stažení ho stačí otevřít, čímž se začne instalovat.
 
-## Debug verze
-
-U hlavních verzí se kromě souboru `NÁZEV-VERZE.apk` vyskytuje ještě soubor `NÁZEV-VERZE-debug.apk`. Tento instalační balíček obsahuje DEBUG verzi aplikace, ve které si můžete aplikaci vyzkoušet, ale žádný email nebude odeslán firmě Regulus, pouze Vám.
-
 ## ![ic_r](https://github.com/rblaha15/aplikace/assets/72446087/3e53ccfd-0f50-4d44-8676-3f96f861d5ad) Dotazník
 
 [Nejnovější verze](https://github.com/rblaha15/regulus-dotaznik/releases/latest)
