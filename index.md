@@ -2,7 +2,7 @@
 
 ## SEIR
 
-[Otevřít aplikaci](https://evidenceir.vercel.app)
+[Otevřít aplikaci](https://evidenceir.vercel.app){:target="_blank"}
 
 ## Instalace
 
