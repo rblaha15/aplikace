@@ -1,5 +1,9 @@
 # Aplikace Regulus
 
+## SEIR
+
+[Otevřít aplikaci](https://evidenceir.vercel.app)
+
 ## Instalace
 
 Přes odkaz níže se dostanete na stránku s nejnovější verzí dané aplikace. Zde popojeďte kouse dolů a pod sekcí `Assets` najdete soubor ve formátu `NÁZEV-VERZE.apk`. Po kliknutí se vám soubor začne stahovat a po stažení ho stačí otevřít, čímž se začne instalovat.
